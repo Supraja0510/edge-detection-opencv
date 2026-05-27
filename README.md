@@ -60,6 +60,7 @@ plt.axis('off')
 ```
 
 <img width="792" height="567" alt="image" src="https://github.com/user-attachments/assets/3f9a2617-a40c-4577-84fa-9c773b0cd06f" />
+
 ### CANNY EDGE DETECTOR
 ```
 canny_edges = cv2.Canny(gray_image, 50, 150)
