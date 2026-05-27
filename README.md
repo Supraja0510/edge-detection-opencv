@@ -51,6 +51,8 @@ plt.axis('off')
 ```
 
 <img width="854" height="591" alt="image" src="https://github.com/user-attachments/assets/80247edc-efd3-412e-9351-47daad965967" />
+
+
 ### LAPLACIAN EDGE DETECTOR
 ```
 laplacian = cv2.Laplacian(gray_image, cv2.CV_64F)
